@@ -48,3 +48,17 @@ $md: 768px;
 $lg: 992px;
 $xl: 1200px;
 $xxl: 1400px;
+
+$easings: (
+  "fast": 300ms ease,
+  "slow": 600ms ease,
+);
+
+$main-font: "Montserrat";
+
+$font-weights: (
+  "Regular": 400,
+  "Medium": 500,
+  "SemiBold": 600,
+  "Bold": 700,
+);
